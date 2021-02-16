@@ -1,0 +1,20 @@
+zad3 
+1.Jak można zinterpretować małą wysokość pudełka w przypadku kategorii 2?
+	małe zróżnicowanie wyników
+	
+2.Jak można zinterpretować dużą wysokość pudełek w przypadku kategorii 1 i 3?
+duże zróżnicowanie wyników
+
+3.Jak można zinterpretować dużą różnicę wysokości pudełek 3 i 4?
+pudełko 3 ma większy przeciętn ypoziom cechy od pudełka 4
+
+4.Jak można zinterpretować tę samą wartość mediany w przypadku kategorii 1, 2 i 3?
+w pudełku 1 występuje znacznie silniejsza asymetria w dwóchś rodkowych ćwiartkach rozkładu
+podczas gdy w pudełku 2 i 3 jest znaczniej słabsza mimo znacznej różnicy w zróznicowaniu wartości 
+
+5.Jak można zinterpretować przesunięcie w pionie pudełek 2 i 4?
+pudełko 2 ma wiekssy przecięny poziom cech od pudełka nr 4
+
+6.Jaka jest różnica między wynikami w kategorii 1 i 2? 
+pudełko 1 ma wieksze zróznicowanie miedzy wynikami , wiekszy rozrzut wyników w góre a mniejszy w dół ,
+posiada silniejszą asymetrię w dwóch środkowych ćwiartkach rozkładu, oraz silniejszą asymetrię  w całym rozkładzie.
